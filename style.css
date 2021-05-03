@@ -796,6 +796,9 @@ width: 100%;
 .contact-text{
     margin-bottom: 30px;
 }
+.contact-text p a{
+    color: var(--main-color);
+}
 .contact-info-item{
     margin-bottom: 10px;
 }
